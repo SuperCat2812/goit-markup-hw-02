@@ -15,7 +15,6 @@ body {
 .menu-item:hover,
 .menu-item:focus {
   color: #404bbf;
-  
 }
 
 .hero {
@@ -26,7 +25,6 @@ body {
   font-size: 56px;
   letter-spacing: 0.02em;
   line-height: 1.07;
-
 }
 
 a {
@@ -40,18 +38,19 @@ a {
   color: #2e2f42;
 }
 
-.contacts{
+.contacts {
   font-style: normal;
 }
 
-.contact-items{
+.contact-items {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.contact-items:hover, .contact-items:focus {
+.contact-items:hover,
+.contact-items:focus {
   color: #404bbf;
 }
 
@@ -65,8 +64,6 @@ a {
   background-color: #4d5ae5;
   color: #fff;
 }
-
-
 
 button:hover,
 button:focus {
@@ -89,7 +86,7 @@ h2 {
   color: #2e2f42;
 }
 
-.features-item-description{
+.features-item-description {
   letter-spacing: 0.02em;
 }
 
@@ -100,7 +97,7 @@ h2 {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase ;
+  text-transform: uppercase;
   color: #4d5ae5;
 }
 
@@ -113,27 +110,28 @@ h2 {
 
 .team-name {
   letter-spacing: 0.02em;
-  line-height: 1.11;text-align: center;
+  line-height: 1.11;
+  text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
 }
 
 .team-item {
-background-color: #fff;
+  background-color: #fff;
 }
 
 .team-item-name {
   letter-spacing: 0.02em;
 }
 
-.menu-item{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+.menu-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
-.cart-name{
+.cart-name {
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
@@ -141,13 +139,14 @@ letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.cart-item-name{
+.cart-item-name {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.cart-item-description{
-  letter-spacing: 0.02em;}
+.cart-item-description {
+  letter-spacing: 0.02em;
+}
 
 .footer {
   background-color: #2e2f42;
@@ -157,6 +156,6 @@ letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
-.footer-description{
+.footer-description {
   letter-spacing: 0.02em;
 }
