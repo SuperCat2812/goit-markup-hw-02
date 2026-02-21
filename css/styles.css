@@ -8,7 +8,7 @@ body {
   letter-spacing: 2%;
 }
 
-.header {
+.hero-section {
   background-color: #2e2f42;
 }
 
@@ -18,20 +18,21 @@ body {
   
 }
 
-h1 {
+.hero {
   color: #fff;
   text-align: center;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 56px;
-  letter-spacing: 2%;
-  line-height: 60px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+
 }
 
 a {
   text-decoration: none;
-  font-family: 'Roboto';
-  font-weight: regular;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   font-size: 12px;
   line-height: 16px;
   letter-spacing: 4%;
@@ -54,12 +55,12 @@ a {
   color: #404bbf;
 }
 
-button {
-  font-family: 'Roboto';
-  font-weight: medium;
+.hero-button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   cursor: pointer;
   background-color: #4d5ae5;
   color: #fff;
@@ -71,7 +72,7 @@ button:focus {
 }
 
 h2 {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 36px;
   letter-spacing: 2%;
@@ -79,8 +80,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Roboto';
-  font-weight: medium;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
   font-size: 20px;
   letter-spacing: 2%;
 }
@@ -89,7 +90,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   font-size: 18px;
-  line-height: 1.17px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase ;
   color: #4d5ae5;
