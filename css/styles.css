@@ -162,7 +162,7 @@ h2 {
 .footer {
   background-color: #2e2f42;
 }
-.footer-content {
+.footer .logo span {
   color: #f4f4fd;
 }
 
